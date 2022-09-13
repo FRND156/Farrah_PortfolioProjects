@@ -1,6 +1,6 @@
 # Farrah_PortfolioProjects
 
-## [Project 1: Excel Dataset Cleaning & Dashboard Creation](https://frnd156.github.io/Farrah_PortfolioProjects/)
+## [Project 1: Excel Stock Portfolio Tracker & Dashboard Creation Using Live Data](https://frnd156.github.io/Farrah_PortfolioProjects/)
 
 - Objective:
 - Goal:
